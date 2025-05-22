@@ -113,7 +113,7 @@ Recently completed comprehensive web development course covering:
 
 ---
 
-## 🎯 2024-2025 Goals
+## 🎯 Goals
 
 ### 📖 Academic Goals
 - [ ] Complete Semester 2 with excellent grades
@@ -124,7 +124,6 @@ Recently completed comprehensive web development course covering:
 - [ ] Learn Python programming
 - [ ] Database management with MySQL
 - [ ] Explore Android development
-- [ ] Contribute to open-source projects
 - [ ] Build personal portfolio website
 
 ### 🏆 Certification Goals
