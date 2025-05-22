@@ -1,26 +1,4 @@
 # 👋 Hello! I'm Athaulla Hafizh
-<div align="center">
-
-<h2>🌐 Let's Connect</h2>
-
-<p align="center">
-  <a href="mailto:athaullahafizh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/athfizh/?igsh=MWJuMWwyN2FmeXN0aA%3D%3D#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/athaullahafizh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Malang,_East_Java-28a745?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎓_Politeknik_Negeri_Malang-blue?style=for-the-badge" alt="University"/>
-</p>
-
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student+%F0%9F%8E%93;Aspiring+Mobile+Developer+%F0%9F%93%B1;Java+%26+Web+Development+Enthusiast+%E2%98%95;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
