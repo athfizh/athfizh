@@ -159,7 +159,7 @@ Recently completed comprehensive web development course covering:
 </div>
 
 <div align="center">
-  <h3>💡 "The best time to plant a tree was 20 years ago. The second best time is now."</h3>
+  <h3>💡 "Wong Liyo Ngerti Opo."</h3>
   <p><em>Started my coding journey in 2024 and excited for what's ahead! 🚀</em></p>
   <p><strong>Let's connect and grow together in this amazing world of technology! 📱💻</strong></p>
 </div>
