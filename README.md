@@ -31,8 +31,8 @@ public class MyJourney {
     private String goal = "Mobile Developer";
     
     public void displayProgress() {
-        System.out.println("🎓 Student focusing on: " + status);
-        System.out.println("🎯 Aiming to become: " + goal);
+        System.out.println("🎓 Student focusing on: IT");
+        System.out.println("🎯 Aiming to become: Enterpreneur & IT");
         System.out.println("📚 Current projects: Academic assignments");
     }
 }
