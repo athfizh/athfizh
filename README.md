@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Athaulla Hafizh**, a 2nd semester **Informatics Engineering** student with a passion for mobile development. I started my programming journey with Java in 2024 and have been expanding my skills in web development. Currently building my foundation through academic projects and self-learning!
+Hello! I'm **Athaulla Hafizh**, a 3rd semester **Informatics Engineering** student with a passion for mobile development. I started my programming journey with Java in 2024 and have been expanding my skills in web development. Currently building my foundation through academic projects and self-learning!
 
 <img align="right" alt="Mobile Development" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
