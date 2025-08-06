@@ -116,7 +116,7 @@ Recently completed comprehensive web development course covering:
 ## 🎯 Goals
 
 ### 📖 Academic Goals
-- [ ] Complete Semester 2 with excellent grades
+- [ ] Complete All Semesters with excellent grades
 - [ ] Master Java OOP concepts
 - [ ] Build first mobile application prototype
 
