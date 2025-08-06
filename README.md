@@ -12,7 +12,7 @@ Hello! I'm **Athaulla Hafizh**, a 3rd semester **Informatics Engineering** stude
 
 <img align="right" alt="Mobile Development" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🎓 **Current Status**: 2nd Semester Informatics Engineering Student
+- 🎓 **Current Status**: 3rd Semester Informatics Engineering Student
 - 🌱 **Learning**: Java Programming & Web Development (HTML, CSS)
 - 📱 **Career Goal**: Mobile Developer
 - 💻 **Current Focus**: Academic projects and building programming fundamentals
