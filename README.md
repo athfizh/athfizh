@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Athaulla Hafizh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student+%F0%9F%8E%93;Aspiring+UIUX+Developer+%F0%9F%93%B1;Java+%26+Web+Development+Enthusiast+%E2%98%95;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student+%F0%9F%8E%93;Aspiring+Web+Developer+%F0%9F%93%B1;Java+%26+Web+Development+Enthusiast+%E2%98%95;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
