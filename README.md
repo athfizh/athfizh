@@ -1,14 +1,14 @@
 # 👋 Hello! I'm Athaulla Hafizh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student+%F0%9F%8E%93;Aspiring+Mobile+Developer+%F0%9F%93%B1;Java+%26+Web+Development+Enthusiast+%E2%98%95;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student+%F0%9F%8E%93;Aspiring+Web&UI UX +Developer+%F0%9F%93%B1;Java+%26+Web+Development+Enthusiast+%E2%98%95;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Athaulla Hafizh**, a 3rd semester **Informatics Engineering** student with a passion for mobile development. I started my programming journey with Java in 2024 and have been expanding my skills in web development. Currently building my foundation through academic projects and self-learning!
+Hello! I'm **Athaulla Hafizh**, a 3rd semester **Informatics Engineering** student with a passion for Web & UI UX Development. I started my programming journey with Java in 2024 and have been expanding my skills in web development. Currently building my foundation through academic projects and self-learning!
 
 <img align="right" alt="Mobile Development" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
