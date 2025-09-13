@@ -14,7 +14,7 @@ Hello! I'm **Athaulla Hafizh**, a 3rd semester **Informatics Engineering** stude
 
 - 🎓 **Current Status**: 3rd Semester Informatics Engineering Student
 - 🌱 **Learning**: Java Programming & Web Development (HTML, CSS)
-- 📱 **Career Goal**: Mobile Developer
+- 📱 **Career Goal**: Web & UI UX Developer
 - 💻 **Current Focus**: Academic projects and building programming fundamentals
 - 🎯 **Next Targets**: Python, MySQL, Advanced Java
 - 📫 **Reach me**: athaullahafizh@gmail.com
@@ -28,7 +28,7 @@ Hello! I'm **Athaulla Hafizh**, a 3rd semester **Informatics Engineering** stude
 ```java
 public class MyJourney {
     private String status = "Learning";
-    private String goal = "Mobile Developer";
+    private String goal = "Web & UI UX Developer";
     
     public void displayProgress() {
         System.out.println("🎓 Student focusing on: IT");
