@@ -92,9 +92,6 @@ Recently completed comprehensive web development course covering:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athfizh&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athfizh&theme=github-dark-blue" alt="athfizh" />
-</div>
 
 ---
 
