@@ -69,56 +69,48 @@ Recently completed comprehensive web development course covering:
 
 <div align="center">
 
-### 🤖 Machine Learning Certifications
+### 🧠 AI & Machine Learning
+
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+**"Building LLM Applications With Prompt Engineering"**
+📅 **Issued**: Nov 2025
+📚 **Skills**: Prompt Engineering
+---
 
 ![Special Skill Indonesia](https://img.shields.io/badge/Special_Skill_Indonesia-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
-
-**"Intensive Camp Machine Learning"**  
-📅 **Completed**: September 15, 2025  
-🏅 **Certificate ID**: SPECIAL/342b36/10092025/0043  
-⏰ **Duration**: 12 Hours (6 hours theory + 6 hours practice)  
-📚 **Skills Acquired**: AI Fundamentals, Supervised Learning, Unsupervised Learning, Deep Learning  
-🎯 **Topics Covered**:
-- Introduction to AI & Machine Learning concepts
-- ML Model building pipeline from scratch
-- Supervised & Unsupervised Learning algorithms
-- Deep Learning for advanced data processing
-- Hands-on ML model development
-
+**"Intensive Camp Machine Learning"**
+📅 **Issued**: Sep 2025
+🏅 **Certificate ID**: SPECIAL/342b36/10092025/0043
+📚 **Skills**: Problem Solving, Machine Learning
 [🔗 Verify Certificate](https://specialskill.id/sertifikat)
 
 ---
 
-**"Machine Learning Bootcamp"**  
-📅 **Completed**: September 21, 2025  
-🏅 **Certificate ID**: SSB23P101  
-⏰ **Duration**: 12 Hours  
-📚 **Skills Acquired**: Machine Learning, Problem Solving  
-🎯 **Learning Modules**:
-- Getting to Know AI
-- Introduction to Machine Learning
-- ML Model Development Stages
-- Supervised Learning Implementation
-- Unsupervised Learning Techniques
-- Deep Learning Applications
-- Practical ML Model Building
-
-📝 **Evaluation Methods**: Live Classes, Quizzes, Projects
-
+![Special Skill Indonesia](https://img.shields.io/badge/Special_Skill_Indonesia-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
+**"Machine Learning Bootcamp"**
+📅 **Issued**: Sep 2025
+🏅 **Certificate ID**: SSB2SP101
+📚 **Skills**: Problem Solving, Machine Learning
 [🔗 Verify Certificate](https://specialskill.id/sertifikat)
 
 ---
-  
-### 🎖️ Web Development Certification
-  
+
+### 🎨 UI/UX & Web Development
+
+![Special Skill Indonesia](https://img.shields.io/badge/Special_Skill_Indonesia-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
+**"Intensive Camp UI/UX Design"**
+📅 **Issued**: Oct 2025
+🏅 **Certificate ID**: SSB27B029
+📚 **Skills**: Web Design, Aesthetics
+[🔗 Verify Certificate](https://specialskill.id/sertifikat)
+
+---
+
 ![Dicoding](https://img.shields.io/badge/Dicoding-0066CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
-
-**"Belajar Dasar Pemrograman Web"**  
-📅 **Completed**: December 28, 2024  
-🏅 **Certificate ID**: KEXL7E3ERXG2  
-⏰ **Duration**: 41 Hours  
-📚 **Skills Acquired**: HTML5, CSS3, Flexbox, Responsive Design  
-
+**"Belajar Dasar Pemrograman Web"**
+📅 **Issued**: Dec 2024
+🏅 **Certificate ID**: KEXL7E3ERXG2
+📚 **Skills**: Problem Solving, HTML
 [🔗 Verify Certificate](https://dicoding.com/certificates/KEXL7E3ERXG2)
 
 </div>
