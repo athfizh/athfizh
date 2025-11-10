@@ -67,51 +67,47 @@ Recently completed comprehensive web development course covering:
 
 ## 🏆 Certifications & Achievements
 
-<div align="center">
-
 ### 🧠 AI & Machine Learning
 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-**"Building LLM Applications With Prompt Engineering"**
-📅 **Issued**: Nov 2025
-📚 **Skills**: Prompt Engineering
----
+**Building LLM Applications With Prompt Engineering**
+* **Issued**: Nov 2025
+* **Skills**: Prompt Engineering
+* **Verify**: [🔗 Tampilkan Kredensial](https://learn.nvidia.com/certificates?id=g:2IRD18O6ZWCYuaAxL1A)
+
+<br>
 
 ![Special Skill Indonesia](https://img.shields.io/badge/Special_Skill_Indonesia-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
-**"Intensive Camp Machine Learning"**
-📅 **Issued**: Sep 2025
-🏅 **Certificate ID**: SPECIAL/342b36/10092025/0043
-📚 **Skills**: Problem Solving, Machine Learning
-[🔗 Verify Certificate](https://specialskill.id/sertifikat)
+**Intensive Camp Machine Learning**
+* **Issued**: Sep 2025
+* **Skills**: Problem Solving, Machine Learning
+* **Verify**: [🔗 Verify Certificate](https://specialskill.id/sertifikat) (ID: `SPECIAL/342b36/10092025/0043`)
 
----
+<br>
 
 ![Special Skill Indonesia](https://img.shields.io/badge/Special_Skill_Indonesia-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
-**"Machine Learning Bootcamp"**
-📅 **Issued**: Sep 2025
-🏅 **Certificate ID**: SSB2SP101
-📚 **Skills**: Problem Solving, Machine Learning
-[🔗 Verify Certificate](https://specialskill.id/sertifikat)
+**Machine Learning Bootcamp**
+* **Issued**: Sep 2025
+* **Skills**: Problem Solving, Machine Learning
+* **Verify**: [🔗 Verify Certificate](https://specialskill.id/sertifikat) (ID: `SSB2SP101`)
 
----
+<br>
 
 ### 🎨 UI/UX & Web Development
 
-![Special Skill Indonesia](https://img.shields.io/badge/Special_Skill_Indonesia-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
-**"Intensive Camp UI/UX Design"**
-📅 **Issued**: Oct 2025
-🏅 **Certificate ID**: SSB27B029
-📚 **Skills**: Web Design, Aesthetics
-[🔗 Verify Certificate](https://specialskill.id/sertifikat)
+![Special Skill Indonesia](https://img.shields.io/badge/Special_Skill_Indonesia-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC5MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
+**Intensive Camp UI/UX Design**
+* **Issued**: Oct 2025
+* **Skills**: Web Design, Aesthetics
+* **Verify**: [🔗 Verify Certificate](https://specialskill.id/sertifikat) (ID: `SSB27B029`)
 
----
+<br>
 
-![Dicoding](https://img.shields.io/badge/Dicoding-0066CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
-**"Belajar Dasar Pemrograman Web"**
-📅 **Issued**: Dec 2024
-🏅 **Certificate ID**: KEXL7E3ERXG2
-📚 **Skills**: Problem Solving, HTML
-[🔗 Verify Certificate](https://dicoding.com/certificates/KEXL7E3ERXG2)
+![Dicoding](https://img.shields.io/badge/Dicoding-0066CC?style=for-the-badge&logo=dicoding&logoColor=white)
+**Belajar Dasar Pemrograman Web**
+* **Issued**: Dec 2024
+* **Skills**: Problem Solving, HTML
+* **Verify**: [🔗 Verify Certificate](https://dicoding.com/certificates/KEXL7E3ERXG2)
 
 </div>
 
