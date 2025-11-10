@@ -73,7 +73,7 @@ Recently completed comprehensive web development course covering:
 **Building LLM Applications With Prompt Engineering**
 * **Issued**: Nov 2025
 * **Skills**: Prompt Engineering
-* **Verify**: [🔗 Tampilkan Kredensial](https://learn.nvidia.com/certificates?id=g:2IRD18O6ZWCYuaAxL1A)
+* **Verify**: [🔗 Verify Certificate](https://learn.nvidia.com/certificates?id=g:2IRD18O6ZWCYuaAxL1A) (ID: `g-2IIRd1RO6ZWcYuaAXLtA`)
 
 <br>
 
