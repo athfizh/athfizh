@@ -115,6 +115,10 @@ Recently completed comprehensive web development course covering:
 
 ## 📊 GitHub Statistics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athfizh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athfizh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
 <br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=athfizh&theme=tokyonight&hide_border=true"/>
