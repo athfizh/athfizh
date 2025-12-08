@@ -120,10 +120,6 @@ Recently completed comprehensive web development course covering:
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athfizh&theme=tokyo-night&hide_border=true"/>
-</div>
-<br/>
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=athfizh&theme=tokyonight&no-frame=true&column=7"/>
 </div>
 
