@@ -119,18 +119,17 @@ Recently completed comprehensive web development course covering:
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=athfizh&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Athaulla Hafizh github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=athfizh&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&ring=00D9FF&fire=00D9FF" alt="Athaulla Hafizh streak stats"/>
 </div>
+<br>
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athfizh&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=athfizh&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Contribution Stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athfizh&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Top Languages" />
 </div>
+<br>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athfizh&theme=github_dark&hide_border=true" alt="Profile Summary" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=athfizh&custom_title=Athaulla's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+<br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athfizh&custom_title=Athaulla's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=athfizh&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=athfizh&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </div>
 
 ---
