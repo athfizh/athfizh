@@ -116,24 +116,20 @@ Recently completed comprehensive web development course covering:
 ## 📊 GitHub Statistics
 
 <div align="center">
-<a href="https://github.com/athfizh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athfizh&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/athfizh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athfizh&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=athfizh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athfizh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athfizh&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=c9d1d9&dates=8b949e"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athfizh&theme=tokyonight&hide_border=true"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athfizh&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&area_color=00D9FF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athfizh&theme=tokyo-night&hide_border=true"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=athfizh&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=athfizh&theme=tokyonight&no-frame=true&column=7"/>
 </div>
 
 ---
