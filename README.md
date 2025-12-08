@@ -115,13 +115,9 @@ Recently completed comprehensive web development course covering:
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=athfizh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athfizh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=athfizh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" style="height: 180px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athfizh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" style="height: 180px;" />
 </div>
 <br/>
 <div align="center">
