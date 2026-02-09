@@ -8,11 +8,11 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Athaulla Hafizh**, a 3rd semester **Informatics Engineering** student with a passion for Web & UI UX Development. I started my programming journey with Java in 2024 and have been expanding my skills in web development. Currently building my foundation through academic projects and self-learning!
+Hello! I'm **Athaulla Hafizh**, a 4th semester **Informatics Engineering** student with a passion for Web & UI UX Development. I started my programming journey with Java in 2024 and have been expanding my skills in web development. Currently building my foundation through academic projects and self-learning!
 
 <img align="right" alt="Mobile Development" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🎓 **Current Status**: 3rd Semester Informatics Engineering Student
+- 🎓 **Current Status**: 4th Semester Informatics Engineering Student
 - 🌱 **Learning**: Java Programming & Web Development (HTML, CSS)
 - 📱 **Career Goal**: Web & UI UX Developer
 - 💻 **Current Focus**: Academic projects and building programming fundamentals
