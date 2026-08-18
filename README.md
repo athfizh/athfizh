@@ -112,14 +112,6 @@ Recently completed comprehensive web development course covering:
 </div>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athfizh&theme=tokyonight&hide_border=true"/>
-</div>
-<br/>
-
 ## 🌟 Current Projects
 
 ### 📚 Academic Projects
