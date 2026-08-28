@@ -8,42 +8,43 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Athaulla Hafizh**, a 5th semester **Informatics Engineering** student with a passion for Web & UI UX Development. I started my programming journey with Java in 2024 and have been expanding my skills in web development. Currently building my foundation through academic projects and self-learning!
+Hello! I'm **Athaulla Hafizh**, a 5th-semester **Informatics Engineering** student at Politeknik Negeri Malang (Polinema). My programming journey started in 2024 with a strong foundation in Java, evolved into building robust full-stack web applications using PHP and Laravel, and is now actively expanding into the dynamic world of **Mobile Development** and Computer Vision.
+
+Beyond the code editor, I actively cultivate my communication and strategic skills. I currently serve as the **General Chairperson of the Information Technology Student Association (HMTI)** for the 2026/2027 term, balancing my technical growth with organizational leadership, public speaking, and strategic event management.
 
 <img align="right" alt="Mobile Development" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🎓 **Current Status**: 5th Semester Informatics Engineering Student
-- 🌱 **Learning**: Java Programming & Web Development (HTML, CSS)
-- 📱 **Career Goal**: Web & UI UX Developer
-- 💻 **Current Focus**: Academic projects and building programming fundamentals
-- 🎯 **Next Targets**: Python, MySQL, Advanced Java
+- 🎓 **Current Status**: 5th Semester Student (D-IV Informatics Engineering, 3.8 GPA)
+- 🌱 **Current Focus**: Mobile Development (Flutter), UI/UX Design & AI Fundamentals
+- 💼 **Experience**: Fullstack Web Development (Laravel, Filament, Tailwind)
+- 🎯 **Leadership**: Managing 60+ cabinet members & strategic tech-events at HMTI
 - 📫 **Reach me**: athaullahafizh@gmail.com
-- ⚡ **Fun fact**: Started coding in 2024 and loving every moment of it!
+- ⚡ **Fun fact**: I transition seamlessly from designing relational databases to writing English newscasting broadcast scripts!
 
 ---
 
 ## 🚀 Learning Journey
 
-### ☕ Java Development Path (Since 2024)
+### 📱 Developer Evolution (Semester 5)
 ```java
-public class MyJourney {
-    private String status = "Learning";
-    private String goal = "Web & UI UX Developer";
+public class DeveloperProfile {
+    private String status = "5th Semester IT Student";
+    private String currentFocus = "Mobile Development & Computer Vision";
+    private String recentMilestone = "HMTI General Chairperson 2026/2027";
     
     public void displayProgress() {
-        System.out.println("🎓 Student focusing on: IT");
-        System.out.println("🎯 Aiming to become: Enterpreneur & IT");
-        System.out.println("📚 Current projects: Academic assignments");
+        System.out.println("Student focusing on: Bridging technical solutions with real-world needs");
+        System.out.println("Aiming to become: Holistic Software Engineer & Tech Leader");
+        System.out.println("Upgrading skills from: Web Development to Mobile Apps Development");
     }
 }
 ```
 
 ### 🌐 Web Development Foundation
-Recently completed comprehensive web development course covering:
-- ✅ **HTML5**: Semantic markup, document structure
-- ✅ **CSS3**: Styling, layouts, responsive design
-- ✅ **Flexbox**: Modern layout techniques
-- ✅ **Responsive Design**: Mobile-first approach
+Consistently upgrading my technical knowledge across multiple domains:
+- ✅ **Web Architecture**: MVC Frameworks, Eloquent ORM, Responsive Design
+- ✅ **Backend Integration**: PostgreSQL, MySQL, API Development
+- ✅ **Mobile & Logic**: Object-Oriented Programming, App Lifecycles, UI Frameworks
 
 ---
 
@@ -115,43 +116,29 @@ Recently completed comprehensive web development course covering:
 ## 🌟 Current Projects
 
 ### 📚 Academic Projects
-🔹 **Java Programming Assignments** - Building foundation through university coursework  
-🔹 **Web Development Practice** - Implementing HTML/CSS skills from certification  
-🔹 **Algorithm & Data Structure** - Core computer science concepts  
-
-### 🚀 Upcoming Projects
-- Console-based Java applications
-- Simple mobile app prototypes
-- Web portfolio showcase
-- Database integration projects
+- **HMTI Organizational Leadership** - Structuring cabinet frameworks, establishing program metrics, and driving tech initiatives for the 2026/2027 term.
+- **Magangin Student Platform** - Engineering layout and technical frameworks using Laravel 13, Filament v4, and Tailwind CSS.
+- **Mobile Application Development** - Transitioning from web architecture to mobile app environments.
 
 ---
 
 ## 🎯 Goals
 
 ### 📖 Academic Goals
-- [ ] Complete All Semesters with excellent grades
-- [ ] Master Java OOP concepts
-- [ ] Build first mobile application prototype
+- [ ] Lead HMTI Polinema to execute impactful student-development programs.
+- [ ] Maintain academic excellence and graduate with Top Honors (3.8+ GPA).
+- [ ] Master modern Mobile Development architecture.
 
 ### 💻 Technical Goals
-- [ ] Learn Python programming
-- [ ] Database management with MySQL
-- [ ] Explore Android development
+- [ ] Build and deploy my first fully functional Mobile Application.
+- [ ] Deepen knowledge in Python for Computer Vision and AI implementations.
+- [ ] Master modern backend architectures and API integrations for mobile apps.
 - [ ] Build personal portfolio website
 
 ### 🏆 Certification Goals
-- [ ] Java programming certification
-- [ ] Mobile development course completion
-- [ ] Database management certification
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athfizh&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f0f6fc&area=true&hide_border=true" alt="athfizh" />
-</div>
+- [ ] Professional Mobile Development Certification
+- [ ] Advanced Cloud & Backend Architecture Certification
+- [ ] Complete specialized tracks in Machine Learning
 
 ---
 
@@ -173,9 +160,9 @@ Recently completed comprehensive web development course covering:
 </div>
 
 <div align="center">
-  <h3>💡 "Wong Liyo Ngerti Opo."</h3>
+  <h3>"Wong Liyo Ngerti Opo."</h3>
   <p><em>Started my coding journey in 2024 and excited for what's ahead! 🚀</em></p>
-  <p><strong>Let's connect and grow together in this amazing world of technology! 📱💻</strong></p>
+  <p><strong>Let's connect and grow together in this amazing world of technology!</strong></p>
 </div>
 
 ---
