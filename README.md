@@ -30,7 +30,7 @@ Beyond the code editor, I actively cultivate my communication and strategic skil
 public class DeveloperProfile {
     private String status = "5th Semester IT Student";
     private String currentFocus = "Mobile Development & Computer Vision";
-    private String recentMilestone = "HMTI General Chairperson 2026/2027";
+    private String recentMilestone = "HMTI Chairman 2026/2027";
     
     public void displayProgress() {
         System.out.println("Student focusing on: Bridging technical solutions with real-world needs");
