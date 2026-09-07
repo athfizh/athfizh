@@ -10,7 +10,7 @@
 
 Hello! I'm **Athaulla Hafizh**, a 5th-semester **Informatics Engineering** student at Politeknik Negeri Malang (Polinema). My programming journey started in 2024 with a strong foundation in Java, evolved into building robust full-stack web applications using PHP and Laravel, and is now actively expanding into the dynamic world of **Mobile Development** and Computer Vision.
 
-Beyond the code editor, I actively cultivate my communication and strategic skills. I currently serve as the **General Chairperson of the Information Technology Student Association (HMTI)** for the 2026/2027 term, balancing my technical growth with organizational leadership, public speaking, and strategic event management.
+Beyond the code editor, I actively cultivate my communication and strategic skills. I currently serve as the **Chairman of the Information Technology Student Association (HMTI)** for the 2026/2027 term, balancing my technical growth with organizational leadership, public speaking, and strategic event management.
 
 <img align="right" alt="Mobile Development" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
